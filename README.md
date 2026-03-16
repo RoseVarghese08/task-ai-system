@@ -33,7 +33,7 @@ This structure separates business logic and database access, making the code cle
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-management-system.git
+git clone https://github.com/RoseVarghese08/task-management-system.git
 ```
 
 2. Install dependencies
